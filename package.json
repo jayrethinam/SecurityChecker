@@ -1,0 +1,16 @@
+{
+	"name": "LinuxSecurityChecker",
+	"description": "This module reports the security patch status of the linux system via RESTAPI ",
+	"version": "0.0.1",
+	"author": "J",	
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jayrethinam/SecurityChecker"
+	},
+	"dependencies": {
+	"zappajs":"*"
+	},	
+	"engines": {
+		"node": "*"
+	}
+}
